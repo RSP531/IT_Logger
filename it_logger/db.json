@@ -1,0 +1,26 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "changed hard drive on workstation",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Rob"
+    },
+    {
+      "id": 2,
+      "message": "changed soft drive on workstation",
+      "attention": true,
+      "date": "03-05-2019",
+      "tech": "John Doe"
+    },
+    {
+      "id": 3,
+      "message": "changed hard drive on computer",
+      "attention": true,
+      "date": "03-03-2019",
+      "tech": "mr. nice guy"
+    }
+  ],
+  "techs": []
+}
