@@ -1,17 +1,10 @@
 {
   "logs": [
     {
-      "message": "Hard Drive Failed at station 007",
+      "message": "COmputer exploded",
       "tech": "John Doe",
-      "attention": true,
-      "date": "2020-03-31T15:23:05.653Z",
-      "id": 1
-    },
-    {
-      "message": "Computer Blew Up- Everything is Fine",
-      "tech": "Sam Smith",
       "attention": false,
-      "date": "2020-03-31T15:23:23.258Z",
+      "date": "2020-03-31T17:54:01.894Z",
       "id": 2
     }
   ],
