@@ -1,39 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "changed hard drive on workstation",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Rob"
-    },
-    {
-      "id": 2,
-      "message": "changed soft drive on workstation",
-      "attention": true,
-      "date": "03-05-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "changed hard drive on computer",
-      "attention": true,
-      "date": "03-03-2019",
-      "tech": "Mr. NiceGuy"
-    },
-    {
-      "message": "This is a test",
-      "tech": "Sarah Wilson",
-      "attention": true,
-      "date": "2020-03-31T15:17:28.333Z",
-      "id": 4
-    },
-    {
-      "message": "Test #2",
+      "message": "Hard Drive Failed at station 007",
       "tech": "John Doe",
+      "attention": true,
+      "date": "2020-03-31T15:23:05.653Z",
+      "id": 1
+    },
+    {
+      "message": "Computer Blew Up- Everything is Fine",
+      "tech": "Sam Smith",
       "attention": false,
-      "date": "2020-03-31T15:17:54.130Z",
-      "id": 5
+      "date": "2020-03-31T15:23:23.258Z",
+      "id": 2
     }
   ],
   "techs": [
