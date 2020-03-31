@@ -105,7 +105,7 @@ const modalStyle = {
   height: "75%"
 };
 
-EditLogModal.proptypes = {
+EditLogModal.propTypes = {
   current: PropTypes.object,
   updateLog: PropTypes.func.isRequired
 };
