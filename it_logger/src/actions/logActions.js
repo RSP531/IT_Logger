@@ -6,7 +6,8 @@ import {
   DELETE_LOG,
   SET_CURRENT,
   CLEAR_CURRENT,
-  UPDATE_LOG
+  UPDATE_LOG,
+  SEARCH_LOGS
 } from "./types";
 
 export const getLogs = () => async dispatch => {
