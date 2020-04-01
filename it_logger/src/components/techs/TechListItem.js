@@ -2,9 +2,13 @@ import React from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { deleteTech } from "../../actions/techActions";
+import M from "materialize-css/dist/js/materialize.min.js";
 
 const TechListItem = ({ tech, deleteTech }) => {
   const onDelete = () => {
+    M.toast({
+      html: `Technician ${tech.firstName} ${tech.lastName} was deleted`
+    });
     deleteTech(tech.id);
   };
   return (
