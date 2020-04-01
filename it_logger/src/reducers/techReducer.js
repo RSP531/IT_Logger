@@ -42,9 +42,11 @@ export default (state = initialState, action) => {
       };
     }
     case TECHS_ERROR: {
+      console.log(action.payload);
       return {
         ...state,
-        error: true
+        error: action.payload,
+        loading: false
       };
     }
     default:
