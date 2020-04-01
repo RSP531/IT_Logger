@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 2,
       "message": "COmputer exploded",
-      "tech": "John Doe",
       "attention": false,
-      "date": "2020-03-31T17:54:01.894Z",
-      "id": 2
+      "tech": "Rob Smith",
+      "date": "2020-04-01T14:30:51.231Z"
     },
     {
       "message": "Stuff got busted",
@@ -15,32 +15,32 @@
       "id": 3
     },
     {
+      "id": 4,
       "message": "test1",
-      "tech": "John Doe",
       "attention": false,
-      "date": "2020-04-01T13:44:10.991Z",
-      "id": 4
+      "tech": "Sara Johns",
+      "date": "2020-04-01T14:30:47.112Z"
     },
     {
+      "id": 5,
       "message": "TEst2",
+      "attention": true,
       "tech": "Sam Smith",
-      "attention": true,
-      "date": "2020-04-01T13:44:19.393Z",
-      "id": 5
+      "date": "2020-04-01T14:30:40.502Z"
     },
     {
+      "id": 6,
       "message": "third test",
-      "tech": "Sarah Wilson",
       "attention": true,
-      "date": "2020-04-01T13:44:26.796Z",
-      "id": 6
+      "tech": "Jennifer Fitz-Patrick",
+      "date": "2020-04-01T14:30:35.343Z"
     },
     {
+      "id": 7,
       "message": "hi",
-      "tech": "Jennifer Fitz-Patrick",
       "attention": true,
-      "date": "2020-04-01T14:28:34.403Z",
-      "id": 7
+      "tech": "John Doe",
+      "date": "2020-04-01T14:30:28.976Z"
     }
   ],
   "techs": [
