@@ -23,7 +23,15 @@ const SearchBar = ({ searchLogs }) => {
             <label className="label-icon" htmlFor="search">
               <i className="material-icons">search</i>
             </label>
-            <i className="material-icons">close</i>
+            <i
+              className="material-icons"
+              onClick={() => {
+                text.current.value = "";
+                //not done, need to get the logs
+              }}
+            >
+              close
+            </i>
           </div>
         </form>
       </div>
